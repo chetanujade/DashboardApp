@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/DashboardApp/static/css/main.fd0d099e.css",
+    "main.js": "/DashboardApp/static/js/main.84407140.js",
+    "static/js/787.d43e6ab2.chunk.js": "/DashboardApp/static/js/787.d43e6ab2.chunk.js",
+    "static/media/ProfilePicture.jpg": "/DashboardApp/static/media/ProfilePicture.3845cb597a15683bd8ac.jpg",
+    "static/media/unsplash-a2j--namzag.svg": "/DashboardApp/static/media/unsplash-a2j--namzag.56b0086df2cc413ca56a5d1ba5a5aac6.svg",
+    "static/media/unsplash-wh2fhl0v-eo.svg": "/DashboardApp/static/media/unsplash-wh2fhl0v-eo.8aa41914ba9877d7deae0d6d5a01a47f.svg",
+    "static/media/wallet-money-1.svg": "/DashboardApp/static/media/wallet-money-1.329f3896234360dc92ad43d93546ebab.svg",
+    "static/media/discount-shape-1.svg": "/DashboardApp/static/media/discount-shape-1.5230029f4e637c534c143c4d95cf421f.svg",
+    "static/media/logo.svg": "/DashboardApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/money-recive-1.svg": "/DashboardApp/static/media/money-recive-1.1e18e6cfe1e7336c89b9ef1b9a954899.svg",
+    "static/media/wallet-money-2.svg": "/DashboardApp/static/media/wallet-money-2.25d824b57e5c5a753432296807e7285d.svg",
+    "static/media/3d-square-1.svg": "/DashboardApp/static/media/3d-square-1.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
+    "static/media/bag-2-1.svg": "/DashboardApp/static/media/bag-2-1.521b1a255d36c339b96289d306a19772.svg",
+    "static/media/message-question-1.svg": "/DashboardApp/static/media/message-question-1.5d23912a887f9edc9d9f8d957ec960e6.svg",
+    "static/media/user-square-1.svg": "/DashboardApp/static/media/user-square-1.8262755cd49eb6fddb7f6d00ddf93ef8.svg",
+    "static/media/ellipse-6.svg": "/DashboardApp/static/media/ellipse-6.2338cee3dff98e5d36b8ff355740caee.svg",
+    "static/media/icon---24---outline---key-square.svg": "/DashboardApp/static/media/icon---24---outline---key-square.94f304a899a18d918c95dbb9ec83c873.svg",
+    "index.html": "/DashboardApp/index.html",
+    "static/media/ellipse-7.svg": "/DashboardApp/static/media/ellipse-7.c518ce5439acbf06bb1dc4638f69496a.svg",
+    "static/media/search-1.svg": "/DashboardApp/static/media/search-1.d555a35800fec6f7c1928aef95546ef7.svg",
+    "static/media/arrow-up-1-2.svg": "/DashboardApp/static/media/arrow-up-1-2.648c55e0a3d903b4133ef5978d66b63a.svg",
+    "static/media/arrow-up-1.svg": "/DashboardApp/static/media/arrow-up-1.3c43e18d5f859074e49044b71d97fe77.svg",
+    "static/media/arrow-up-1-1.svg": "/DashboardApp/static/media/arrow-up-1-1.ced74ee38c9ca54b2dbf0fa44100bcc9.svg",
+    "static/media/chevron-down-1.svg": "/DashboardApp/static/media/chevron-down-1.e92dd3c85ea508ab95f1bfdb19222cb9.svg",
+    "static/media/chevron-down-2.svg": "/DashboardApp/static/media/chevron-down-2.b8124f59cd8b54beec369ff2456e09a7.svg",
+    "static/media/chevron-right-2.svg": "/DashboardApp/static/media/chevron-right-2.618c411d724ff239093f3539c12387f1.svg",
+    "static/media/line-2.svg": "/DashboardApp/static/media/line-2.406e65849eb29d70c8f9dc44e94bc426.svg",
+    "static/media/line-4.svg": "/DashboardApp/static/media/line-4.1e418c7353603172889378c394016fcf.svg",
+    "main.fd0d099e.css.map": "/DashboardApp/static/css/main.fd0d099e.css.map",
+    "main.84407140.js.map": "/DashboardApp/static/js/main.84407140.js.map",
+    "787.d43e6ab2.chunk.js.map": "/DashboardApp/static/js/787.d43e6ab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0d099e.css",
+    "static/js/main.84407140.js"
+  ]
+}
